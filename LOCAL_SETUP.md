@@ -27,3 +27,5 @@ bundle exec jekyll serve
 refer https://mmistakes.github.io/mm-github-pages-starter/blog/welcome-to-jekyll/ to learn how to post
 # Reference
 https://github.com/justinrummel/jr.com-mm/blob/jr-branch/_config.yml
+https://github.com/chriskhanhtran/minimal-portfolio
+https://chriskhanhtran.github.io/about/
