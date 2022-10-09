@@ -24,6 +24,7 @@ bundle exec jekyll serve
 ```
 
 # Posting 
+https://mmistakes.github.io/minimal-mistakes/docs/posts/
 refer https://mmistakes.github.io/mm-github-pages-starter/blog/welcome-to-jekyll/ to learn how to post
 # Reference
 https://github.com/justinrummel/jr.com-mm/blob/jr-branch/_config.yml
