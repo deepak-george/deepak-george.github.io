@@ -16,6 +16,7 @@ gem install jekyll bundler
 ## run bundle
 ```
 bundle
+bundle add webrick #https://github.com/jekyll/jekyll/issues/8523
 ```
 ## serve website on 
 this will throw errors that you can fix
