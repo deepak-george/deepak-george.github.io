@@ -21,11 +21,11 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Deepak George"
 description              : "An amazing website."
-url                      : "https://deepak-george.github.io/" #http://localhost:4000
+url                      : "https://deepak-george.github.io/" #http://localhost:4000 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "deepak-george/deepak-george.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/bio-photo.jpg"
+logo                     : #"/assets/images/bio-photo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -112,9 +112,6 @@ author:
   location         : Amsterdam, Netherlands #"Somewhere"
   email            : deepak.george14@alumni.iimb.ac.in 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url:  "mailto:deepak.george14@alumni.iimb.ac.in" #"mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
