@@ -23,5 +23,7 @@ this will throw errors that you can fix
 bundle exec jekyll serve
 ```
 
-# reference
+# Posting 
+refer https://mmistakes.github.io/mm-github-pages-starter/blog/welcome-to-jekyll/ to learn how to post
+# Reference
 https://github.com/justinrummel/jr.com-mm/blob/jr-branch/_config.yml
