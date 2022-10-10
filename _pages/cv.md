@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CV"
+title: "Curriculum Vitae"
 date: 2022-10-09
 last_modified_at: 2022-10-09
 description: "CV of Deepak George"
@@ -9,7 +9,6 @@ comments: false
 permalink: /cv/
 ---
 
-# Curriculum Vitae
 [Download Resume](url)
 
 Updated: 10/OCT/2022
@@ -19,7 +18,7 @@ Updated: 10/OCT/2022
 * LinkedIn: https://www.linkedin.com/in/deepakgeorge7
 
 ## 💼 Experience
-Allianz Netherlands
+### Allianz Netherlands
 ### Lead Data Scientist
 
 May 2019 - Present, Rotterdam, Netherlands
@@ -30,7 +29,7 @@ Trained object detection and image segmentation models on Etsy’s datasets with
 
 ## 🎓 Education
 ### Indian Institute of Management Bangalore
-### Post Graduation in Business Analytics & Intelligence, 2014
+### Post Graduation Business Analytics & Intelligence, 2014
 * GPA: 3.96/4.00
 * Coursework: Core Statistics, R Programming, Predictive Analytics with Python (Machine Learning), Causal Analytics with R (A/B Testing), Social Media Analytics (NLP), Database Management (SQL, Cypher), Big Data (Hive, Spark), Pricing Analytics
 
