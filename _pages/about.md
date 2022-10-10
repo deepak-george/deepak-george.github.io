@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "About"
 date: 2022-10-09
 last_modified_at: 2022-10-09
 description: "Short biography page for Deepak George"
