@@ -2,7 +2,7 @@
 layout: single
 title: "Curriculum Vitae"
 date: 2022-10-09
-last_modified_at: 2022-10-09
+last_modified_at: 2022-10-11
 description: "CV of Deepak George"
 author_profile: false
 comments: false
@@ -13,9 +13,6 @@ toc_icon: "cog"
 toc_sticky: true #https://mmistakes.github.io/minimal-mistakes/layout-table-of-contents-post/#top
 ---
 <a href="deepak-george.github.io/cv/url" class="btn btn--success" role="button">Download Resume</a>
-[//]: # [Download Resume](url)
-
-Updated: 10/OCT/2022
 
 ## 📧 Contact
 * Email: deepak.george14@alumni.iimb.ac.in 
