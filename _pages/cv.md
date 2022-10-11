@@ -22,7 +22,7 @@ Updated: 10/OCT/2022
 * LinkedIn: https://www.linkedin.com/in/deepakgeorge7
 
 ## 💼 Experience
-### Allianz Netherlands
+### Allianz Benelux
 #### Lead Data Scientist
 
 May 2019 - Present, Rotterdam, Netherlands
