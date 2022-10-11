@@ -7,7 +7,7 @@ description: "CV of Deepak George"
 author_profile: false
 comments: false
 permalink: /cv/
-toc: true
+toc: true # https://mmistakes.github.io/minimal-mistakes/docs/helpers/#enabled-via-yaml-front-matter
 toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
@@ -22,7 +22,7 @@ Updated: 10/OCT/2022
 
 ## 💼 Experience
 ### Allianz Netherlands
-### Lead Data Scientist
+#### Lead Data Scientist
 
 May 2019 - Present, Rotterdam, Netherlands
 
@@ -32,7 +32,7 @@ Trained object detection and image segmentation models on Etsy’s datasets with
 
 ## 🎓 Education
 ### Indian Institute of Management Bangalore
-### Post Graduation Business Analytics & Intelligence, 2014
+#### Post Graduation Business Analytics & Intelligence, 2014
 * GPA: 3.96/4.00
 * Coursework: Core Statistics, R Programming, Predictive Analytics with Python (Machine Learning), Causal Analytics with R (A/B Testing), Social Media Analytics (NLP), Database Management (SQL, Cypher), Big Data (Hive, Spark), Pricing Analytics
 
