@@ -11,6 +11,7 @@ toc: true # https://mmistakes.github.io/minimal-mistakes/docs/helpers/#enabled-v
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+usemathjax: true
 ---
 
 ## Introduction
