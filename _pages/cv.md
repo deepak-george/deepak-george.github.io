@@ -12,7 +12,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true #https://mmistakes.github.io/minimal-mistakes/layout-table-of-contents-post/#top
 ---
-<a href="deepak-george.github.io/cv/url" class="btn btn--success" role="button">Download Resume</a>
+<a href="/url" class="btn btn--success" role="button">Download Resume</a>
 
 ## 📧 Contact
 * Email: deepak.george14@alumni.iimb.ac.in 
@@ -30,12 +30,12 @@ Trained object detection and image segmentation models on Etsy’s datasets with
 
 ## 🎓 Education
 ### Indian Institute of Management Bangalore
-#### Post Graduation- Business Analytics & Intelligence, 2014
+#### Post Graduation: Business Analytics & Intelligence, 2014
 * GPA: 3.96/4.00
 * Coursework: Core Statistics, R Programming, Predictive Analytics with Python (Machine Learning), Causal Analytics with R (A/B Testing), Social Media Analytics (NLP), Database Management (SQL, Cypher), Big Data (Hive, Spark), Pricing Analytics
 
 ### College of Engineering Trivadrum
-#### Bachelor of Technology- Computer Science Engineering, 2010
+#### Bachelor of Technology: Computer Science Engineering, 2010
 * Coursework: Data Mining, Database Management (SQL), Big Data
 
 ## 📝 Projects and Articles
