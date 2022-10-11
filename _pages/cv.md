@@ -12,8 +12,8 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true #https://mmistakes.github.io/minimal-mistakes/layout-table-of-contents-post/#top
 ---
-<a href="#" class="btn btn--success">Success Button</a>
-[Download Resume](url)
+<a href="/cv/" class="btn btn--success" role="button">Download Resume</a>
+[//]: # [Download Resume](url)
 
 Updated: 10/OCT/2022
 
