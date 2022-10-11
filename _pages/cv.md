@@ -7,6 +7,9 @@ description: "CV of Deepak George"
 author_profile: false
 comments: false
 permalink: /cv/
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 [Download Resume](url)
