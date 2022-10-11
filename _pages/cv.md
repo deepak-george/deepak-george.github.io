@@ -10,6 +10,7 @@ permalink: /cv/
 toc: true # https://mmistakes.github.io/minimal-mistakes/docs/helpers/#enabled-via-yaml-front-matter
 toc_label: "Table of Contents"
 toc_icon: "cog"
+toc_sticky: true
 ---
 
 [Download Resume](url)
