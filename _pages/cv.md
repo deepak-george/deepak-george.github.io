@@ -12,7 +12,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true #https://mmistakes.github.io/minimal-mistakes/layout-table-of-contents-post/#top
 ---
-
+<a href="#" class="btn btn--success">Success Button</a>
 [Download Resume](url)
 
 Updated: 10/OCT/2022
@@ -36,15 +36,17 @@ Trained object detection and image segmentation models on Etsy’s datasets with
 #### Post Graduation Business Analytics & Intelligence, 2014
 * GPA: 3.96/4.00
 * Coursework: Core Statistics, R Programming, Predictive Analytics with Python (Machine Learning), Causal Analytics with R (A/B Testing), Social Media Analytics (NLP), Database Management (SQL, Cypher), Big Data (Hive, Spark), Pricing Analytics
+### College of Engineering Trivadrum
+#### Bachelor of Technology in Computer Science Engineering, 2010
+* Coursework: Data Mining, Database Management (SQL), Big Data
 
 ## 📝 Projects and Articles
-I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my blog and portfolio for more details.
+I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. 
 
 ## 🤖 Skills
 * Programming: Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow), Big Data (Spark, Hive), R, SQL, Cypher, MATLAB
 * NLP: Named Entity Recognition, Sentiment Analysis, Machine Translation, Summarization
 * Others:
-    * Cloud Computing: AWS EC2, GCP
+    * Cloud Computing: Azure
     * Visualization: Tableau, Matplotlib, Seaborn
     * Statistical Tools: SAS, SPSS, Excel
-    * Design and Video Editing: Adobe Photoshop, Lightroom, Premiere
