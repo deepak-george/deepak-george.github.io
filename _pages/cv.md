@@ -30,12 +30,12 @@ Trained object detection and image segmentation models on Etsy’s datasets with
 
 ## 🎓 Education
 ### Indian Institute of Management Bangalore
-#### Post Graduation Business Analytics & Intelligence, 2014
+#### Post Graduation- Business Analytics & Intelligence, 2014
 * GPA: 3.96/4.00
 * Coursework: Core Statistics, R Programming, Predictive Analytics with Python (Machine Learning), Causal Analytics with R (A/B Testing), Social Media Analytics (NLP), Database Management (SQL, Cypher), Big Data (Hive, Spark), Pricing Analytics
 
 ### College of Engineering Trivadrum
-#### Bachelor of Technology in Computer Science Engineering, 2010
+#### Bachelor of Technology- Computer Science Engineering, 2010
 * Coursework: Data Mining, Database Management (SQL), Big Data
 
 ## 📝 Projects and Articles
