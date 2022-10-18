@@ -29,6 +29,11 @@ May 2019 - Present, Rotterdam, Netherlands
 Trained object detection and image segmentation models on Etsy’s datasets with Detectron2.
 
 ## 🎓 Education
+
+### Institute of Actuaries Belgium
+#### Actuarial Data Scientist Program, 2022-2023
+* Coursework: Statistics, Machine Learning & MLOps
+
 ### Indian Institute of Management Bangalore
 #### Post Graduation: Business Analytics & Intelligence, 2014
 * GPA: 3.96/4.00
